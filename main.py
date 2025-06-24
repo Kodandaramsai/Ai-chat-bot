@@ -2,7 +2,7 @@ import sys
 import time
 import requests 
 import json     
-GEMINI_API_KEY = "AIzaSyDYYIqqxJAZgYVoPfL5zsSCQtPbV-FYzhI" 
+GEMINI_API_KEY = "ENTER YOUR API KEY" 
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 def greet_customer():
     """Greets the customer and introduces the chatbot."""
